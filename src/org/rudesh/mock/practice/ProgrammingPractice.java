@@ -11,7 +11,9 @@ public static void main(String[] args) {
 		n=n/10;
 	}
 	System.out.println("Git test");
-	
+
+String s = "Hello World";
+System.out.println(s);
 	
 }
 }
