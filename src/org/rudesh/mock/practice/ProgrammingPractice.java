@@ -10,6 +10,7 @@ public static void main(String[] args) {
 		res=(res*10)+rem;
 		n=n/10;
 	}
+	System.out.println("Git test");
 	
 	
 }
